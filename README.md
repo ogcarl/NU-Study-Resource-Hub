@@ -4,7 +4,6 @@ NU Study Resource Hub is a online platform for National University students to s
 On **NU Study Resource Hub**, students can upload:  
 
 - **Lecture Notes** (PDF, DOCX, TXT)  
-- **Past Exams & Quizzes** (Scanned images, PDFs)  
 - **Reviewers & Study Guides**  
 - **Presentation Slides** (PPT, PDF)  
 - **Lab Reports & Research Papers**  
